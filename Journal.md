@@ -1,3 +1,10 @@
+---
+Title: “windF12"
+Author: “@lasvejas"
+Description: “A 12 key F row replacement for people that use 60% keyboards."
+Created On (d/m/y): “8/8/2025"
+---
+
 # windF12 Journal
 
 ## September 8
@@ -11,12 +18,19 @@ The diodes I’m using are SOD-123 1N4148 diodes, so smd, but its fine and they 
 
 That’s about it, maybe some small changes in the future.
 
+Here are some images of my pcb:
+
+![pcb with no silkscreen](img/pcb-nosilk.png)<br>
+![pcb with silkscreen](img/pcb-silk.png)<br>
 
 
 ## September 9 - Silkscreen
 
 I asked ChatGPT for some logo inspiration, and it gave me a very simple logo with ‘wind’ at the top and all me keyboard numbers under it, so I decided to make that into my branding as it looks cool and I like it really much.
 
-<insert logo.png here>
+![logo](img/logo.png)<br>
+
 
 It’s very simple and I’ve applied it to all my projects.
+
+When I saw the price of the Xiao BLE I was frankly shocked. So seeing that all the Xiao boards have the same footprint, I might just replace it with an rp2040 if its too expensive.
