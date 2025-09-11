@@ -40,3 +40,5 @@ When I saw the price of the Xiao BLE I was frankly shocked. So seeing that all t
 So I’m fighting with KiCad cus its placement is weird, but I forgot to add mounting holes so I have to do that (I thought I was done :sob:) 
 This was the final straw. The switches aren’t aligning correctly, and I was losing my mind.
 I replaced everything, now correctly. I kept the old silkscreens but everything was replaced.
+
+I redid my routing to be nicer looking and added mounting holes to the (new) pcb.
